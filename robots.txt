@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://epaizohte.pubnubcoin.com/sitemap.xml
